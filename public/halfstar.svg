@@ -1,0 +1,10 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame">
+<g id="Star / Half">
+<g id="Star Copy">
+<path id="Star Filled" fill-rule="evenodd" clip-rule="evenodd" d="M15 21.5L7.35876 25.5172L8.8181 17.0086L2.63623 10.9828L11.1794 9.74139L15 2V21.5Z" fill="#EFC4DC"/>
+<path id="Star Outline" fill-rule="evenodd" clip-rule="evenodd" d="M19.9771 22.6033L18.6446 14.8342L24.2892 9.33201L16.4885 8.1985L12.9999 1.12988L9.51138 8.1985L1.71069 9.33201L7.35532 14.8342L6.0228 22.6033L12.9999 18.9352L19.9771 22.6033Z" stroke="#423D76"/>
+</g>
+</g>
+</g>
+</svg>
